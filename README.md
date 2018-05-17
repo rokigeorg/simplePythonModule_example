@@ -2,6 +2,8 @@
 to run the example
 
 ```bash
-$ python mainScript 
+$ python mainScript.py 
 ```
 and understand what the computer executes.
+
+
